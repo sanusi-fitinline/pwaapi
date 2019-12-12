@@ -1,0 +1,24 @@
+{
+  "products": [
+    {"id":1,"name":"Pied butcher bird","category":"Crimson"},
+    {"id":2,"name":"Colobus, magistrate black","category":"Red"},
+    {"id":3,"name":"Nile crocodile","category":"Goldenrod"},
+    {"id":4,"name":"Dik, kirk's dik","category":"Turquoise"},
+    {"id":5,"name":"Pine squirrel","category":"Yellow"},
+    {"id":6,"name":"Swamp deer","category":"Khaki"},
+    {"id":7,"name":"Burmese brown mountain tortoise","category":"Aquamarine"},
+    {"id":8,"name":"Saddle-billed stork","category":"Pink"},
+    {"id":9,"name":"Bohor reedbuck","category":"Maroon"},
+    {"id":10,"name":"Ox, musk","category":"Red"},
+    {"id":11,"name":"Falcon, peregrine","category":"Indigo"},
+    {"id":12,"name":"Oriental short-clawed otter","category":"Crimson"},
+    {"id":13,"name":"Brindled gnu","category":"Teal"},
+    {"id":14,"name":"Lilac-breasted roller","category":"Yellow"},
+    {"id":15,"name":"Monkey, rhesus","category":"Crimson"},
+    {"id":16,"name":"Frilled lizard","category":"Goldenrod"},
+    {"id":17,"name":"Capuchin, white-fronted","category":"Yellow"},
+    {"id":18,"name":"Southern black-backed gull","category":"Maroon"},
+    {"id":19,"name":"Glossy starling (unidentified)","category":"Turquoise"},
+    {"id":20,"name":"Cuis","category":"Goldenrod"}
+  ]
+}
